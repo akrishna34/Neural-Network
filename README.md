@@ -1,4 +1,3 @@
-# Neural-Network
-DeepLearning.AI(coursera) 
++DeepLearning.AI(coursera) 
 
 Assignment from initial to end
